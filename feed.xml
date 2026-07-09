@@ -3,7 +3,7 @@
     <title>Ava的个人站</title>
     <link href="https://Ava884.GitHub.io/feed.xml" rel="self" />
     <link href="https://Ava884.GitHub.io" />
-    <updated>2026-07-09T23:30:16+08:00</updated>
+    <updated>2026-07-10T00:32:56+08:00</updated>
     <author>
         <name>Ava</name>
     </author>
@@ -19,6 +19,10 @@
 
         <updated>2026-07-09T23:30:16+08:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://Ava884.GitHub.io/media/posts/1/HFgnUGxacAAJY2j.jpg" alt="" width="720" height="1016" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-xs.jpg 640w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-sm.jpg 768w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-md.jpg 1024w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-lg.jpg 1366w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-xl.jpg 1600w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
     </entry>
 </feed>
