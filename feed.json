@@ -2,12 +2,24 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ava的个人站",
     "description": "",
-    "home_page_url": "https://Ava.GitHub.io",
-    "feed_url": "https://Ava.GitHub.io/feed.json",
+    "home_page_url": "https://Ava.GitHub.io Pub",
+    "feed_url": "https://Ava.GitHub.io Pub/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ava"
     },
     "items": [
+        {
+            "id": "https://Ava.GitHub.io Pub/ce-shi.html",
+            "url": "https://Ava.GitHub.io Pub/ce-shi.html",
+            "title": "测试",
+            "author": {
+                "name": "Ava"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-09T23:30:16+08:00",
+            "date_modified": "2026-07-09T23:30:16+08:00"
+        }
     ]
 }
