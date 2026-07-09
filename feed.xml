@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Ava的个人站</title>
-    <link href="https://Ava.GitHub.io/feed.xml" rel="self" />
-    <link href="https://Ava.GitHub.io" />
+    <link href="https://Ava884.GitHub.io/feed.xml" rel="self" />
+    <link href="https://Ava884.GitHub.io" />
     <updated>2026-07-09T23:30:16+08:00</updated>
     <author>
         <name>Ava</name>
     </author>
-    <id>https://Ava.GitHub.io</id>
+    <id>https://Ava884.GitHub.io</id>
 
     <entry>
         <title>测试</title>
         <author>
             <name>Ava</name>
         </author>
-        <link href="https://Ava.GitHub.io/ce-shi.html"/>
-        <id>https://Ava.GitHub.io/ce-shi.html</id>
+        <link href="https://Ava884.GitHub.io/ce-shi.html"/>
+        <id>https://Ava884.GitHub.io/ce-shi.html</id>
 
         <updated>2026-07-09T23:30:16+08:00</updated>
             <summary></summary>
