@@ -3,12 +3,32 @@
     <title>Ava个人站</title>
     <link href="https://Ava884.GitHub.io/feed.xml" rel="self" />
     <link href="https://Ava884.GitHub.io" />
-    <updated>2026-07-10T00:57:38+08:00</updated>
+    <updated>2026-07-10T15:14:36+08:00</updated>
     <author>
         <name>Ava</name>
     </author>
     <id>https://Ava884.GitHub.io</id>
 
+    <entry>
+        <title>来源</title>
+        <author>
+            <name>Ava</name>
+        </author>
+        <link href="https://Ava884.GitHub.io/lai-yuan.html"/>
+        <id>https://Ava884.GitHub.io/lai-yuan.html</id>
+
+        <updated>2026-07-10T15:14:36+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    网站背景Ekaterina Shishkonakova - 摄影
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>网站背景<a href="https://www.pexels.com/zh-cn/photo/11915890/">Ekaterina Shishkonakova - 摄影</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>测试2</title>
         <author>
