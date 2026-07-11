@@ -3,34 +3,47 @@
     <title>Ava个人站</title>
     <link href="https://Ava884.GitHub.io/feed.xml" rel="self" />
     <link href="https://Ava884.GitHub.io" />
-    <updated>2026-07-11T23:41:21+08:00</updated>
+    <updated>2026-07-12T00:14:07+08:00</updated>
     <author>
         <name>Ava</name>
     </author>
     <id>https://Ava884.GitHub.io</id>
 
     <entry>
-        <title>关于 </title>
+        <title>名校翻译合集</title>
         <author>
             <name>Ava</name>
         </author>
-        <link href="https://Ava884.GitHub.io/lai-yuan.html"/>
-        <id>https://Ava884.GitHub.io/lai-yuan.html</id>
+        <link href="https://Ava884.GitHub.io/ming-xiao-fan-yi-he-ji.html"/>
+        <id>https://Ava884.GitHub.io/ming-xiao-fan-yi-he-ji.html</id>
 
-        <updated>2026-07-10T15:14:36+08:00</updated>
+        <updated>2026-07-12T00:14:07+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>翻译</title>
+        <author>
+            <name>Ava</name>
+        </author>
+        <link href="https://Ava884.GitHub.io/fan-yi.html"/>
+        <id>https://Ava884.GitHub.io/fan-yi.html</id>
+
+        <updated>2026-07-12T00:09:47+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    网站背景-Ekaterina Shishkonakova - 摄影
+                    采用豆包翻译，目前未校对 名校
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>网站背景-<a href="https://www.pexels.com/zh-cn/photo/11915890/">Ekaterina Shishkonakova - 摄影</a></p>
+                <p>采用豆包翻译，目前未校对</p>
+<p>名校</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>测试2</title>
+        <title>名校同人合集</title>
         <author>
             <name>Ava</name>
         </author>
@@ -38,22 +51,14 @@
         <id>https://Ava884.GitHub.io/ce-shi-2.html</id>
 
         <updated>2026-07-10T00:57:38+08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>测试</title>
-        <author>
-            <name>Ava</name>
-        </author>
-        <link href="https://Ava884.GitHub.io/ce-shi.html"/>
-        <id>https://Ava884.GitHub.io/ce-shi.html</id>
-
-        <updated>2026-07-09T23:30:16+08:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                    等待
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://Ava884.GitHub.io/media/posts/1/HFgnUGxacAAJY2j.jpg" alt="" width="720" height="1016" sizes="(max-width: 48em) 100vw, 768px" srcset="https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-xs.jpg 300w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-sm.jpg 480w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-md.jpg 768w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-lg.jpg 1024w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-xl.jpg 1360w ,https://Ava884.GitHub.io/media/posts/1/responsive/HFgnUGxacAAJY2j-2xl.jpg 1600w"></figure>
+                <p>等待</p>
             ]]>
         </content>
     </entry>
